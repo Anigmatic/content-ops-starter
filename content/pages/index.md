@@ -35,8 +35,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: >-
-        /images/a_webpage_thumbnail_for_the_it_solution_with_a_minimal_environment.jpeg
+      url: /images/2.jpeg
     badge:
       label: This is a badge
       color: text-primary
