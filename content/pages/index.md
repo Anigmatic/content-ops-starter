@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Revolutionizing Your Business with Tailor-Made Software Solutions
+      text: Revolutionizing Your Business with Advanced Software Solutions
       color: text-dark
       type: TitleBlock
     subtitle: Experties
