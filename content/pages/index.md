@@ -32,8 +32,6 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: >-
-        /images/a_webpage_thumbnail_for_the_it_solution_with_a_minimal_environment.jpeg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
