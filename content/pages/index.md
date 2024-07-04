@@ -9,7 +9,7 @@ sections:
         Solutions
       color: text-dark
       type: TitleBlock
-    subtitle: SOFTWARE SOLUTIONS
+    subtitle: ''
     text: >
       Expert in Garment ERP, Kniting Jobwork management, Dyeing ERP System and
       Garment Printing Solutions for diverse industries
