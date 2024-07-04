@@ -37,7 +37,7 @@ sections:
       type: ImageBlock
       url: /images/2.jpeg
     badge:
-      label: This is a badge
+      label: Experties
       color: text-primary
       type: Badge
     elementId: ''
