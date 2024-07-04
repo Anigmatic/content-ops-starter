@@ -14,15 +14,6 @@ sections:
       Expert in Garment ERP, Kniting Jobwork management, Dyeing ERP System and
       Garment Printing Solutions for diverse industries
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
