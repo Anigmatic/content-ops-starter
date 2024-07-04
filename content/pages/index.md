@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Revolutionizing Your Business with Advanced and Customizable
+      text: Revolutionizing Your Business with Advanced and Custome
       color: text-dark
       type: TitleBlock
     subtitle: SOFTWARE SOLUTIONS
