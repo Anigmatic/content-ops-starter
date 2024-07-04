@@ -4,40 +4,23 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Revolutionizing Your Business with Tailor-Made Software Solutions
+      text: >-
+        Revolutionizing Your Business with Advanced and Custome Software
+        Solutions
       color: text-dark
       type: TitleBlock
-    subtitle: Experties
-    text: |+
-
-      Expert ERP, Garment, and Accounting Software for Diverse Industries
-
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    subtitle: ''
+    text: >
+      Expert in Garment ERP, Kniting Jobwork management, Dyeing ERP System and
+      Garment Printing Solutions for diverse industries
+    actions: []
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
       url: /images/2.jpeg
     badge:
-      label: This is a badge
+      label: Experties
       color: text-primary
       type: Badge
     elementId: ''
