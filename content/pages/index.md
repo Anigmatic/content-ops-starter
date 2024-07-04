@@ -7,7 +7,7 @@ sections:
       text: Revolutionizing Your Business with Advanced and Customizable
       color: text-dark
       type: TitleBlock
-    subtitle: SOFTWARE SOLUTION
+    subtitle: SOFTWARE SOLUTIONS
     text: >
       Expert in Garment ERP, Kniting Jobwork management, Dyeing ERP System and
       Garment Printing Solutions for diverse industries
